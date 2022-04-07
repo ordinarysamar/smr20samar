@@ -4,7 +4,7 @@
 - 💞️ I Like python but I am not a master in it.
 - 😊 I look forward to collaborate with others and to learn new skills as a whole team...
 
-[![Instagram Badge](https://img.shields.io/badge/-@smr.me-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white&)](https://www.instagram.com/_smr.me_/) [![Twitter Badge](https://img.shields.io/badge/-@OxidiousB-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/OxidiousB)
+[![Instagram Badge](https://img.shields.io/badge/-@smr.me-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white&)](https://www.instagram.com/offtopicsamar/) [![Twitter Badge](https://img.shields.io/badge/-@OxidiousB-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/OxidiousB)
 
   --> ✨ It was a Pleasure to give my inroduction ✨
 
